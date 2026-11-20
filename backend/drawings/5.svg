@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="Übungszeichnung 5">
+  <rect width="320" height="240" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <circle cx="75" cy="65" r="25"/>
+    <circle cx="245" cy="65" r="25"/>
+    <path d="M100 65H220M160 65V135"/>
+    <rect x="105" y="135" width="110" height="65"/>
+    <path d="M160 135V200"/>
+    <text x="132" y="178">1</text>
+    <text x="188" y="178">2</text>
+  </g>
+  <style>text{font:bold 28px sans-serif;text-anchor:middle;fill:black;stroke:none}</style>
+</svg>

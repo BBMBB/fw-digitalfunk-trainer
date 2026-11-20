@@ -1,0 +1,22 @@
+name: digitalfunk-trainer-dev
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    init: true
+    ports:
+      - "${DEV_BIND_IP:-127.0.0.1}:${DEV_PORT:?Bitte DEV_PORT in .env setzen}:5173"
+      - "127.0.0.1:${DEV_API_PORT:?Bitte DEV_API_PORT in .env setzen}:3000"
+    environment:
+      NODE_ENV: development
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:?Bitte ADMIN_PASSWORD in .env setzen}
+      DATABASE_PATH: /data/trainer.db
+      PORT: 3000
+    volumes:
+      - .:/app
+      - dependencies:/app/node_modules
+      - data:/data
+volumes:
+  dependencies:
+  data:

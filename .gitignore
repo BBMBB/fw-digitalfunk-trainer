@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+*.db
+*.db-shm
+*.db-wal
+/data/
+.env.*
+!.env.example
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.log
+.agents/
+.codex/
+.aws/

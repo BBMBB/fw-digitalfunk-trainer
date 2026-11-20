@@ -1,0 +1,142 @@
+[
+  {
+    "Funkrufname": "Florian Übung 21/1",
+    "Straße und Hausnummer": "Übungsweg 18",
+    "Lage": "Rauchentwicklung im Erdgeschoss",
+    "Anzahl betroffener Personen": "2",
+    "Besonderheit": "Zugang über Hinterhof"
+  },
+  {
+    "Funkrufname": "Florian Übung 22/1",
+    "Straße und Hausnummer": "Musterstraße 7",
+    "Lage": "Wasser im Keller",
+    "Anzahl betroffener Personen": "0",
+    "Besonderheit": "Stromversorgung abgeschaltet"
+  },
+  {
+    "Funkrufname": "Florian Übung 23/1",
+    "Straße und Hausnummer": "Beispielallee 24",
+    "Lage": "Brand in einer Werkstatt",
+    "Anzahl betroffener Personen": "1",
+    "Besonderheit": "Gasflaschen im Nebengebäude"
+  },
+  {
+    "Funkrufname": "Florian Übung 24/1",
+    "Straße und Hausnummer": "Testgasse 3",
+    "Lage": "Umgestürzter Baum auf Fahrbahn",
+    "Anzahl betroffener Personen": "0",
+    "Besonderheit": "Straße vollständig gesperrt"
+  },
+  {
+    "Funkrufname": "Florian Übung 25/1",
+    "Straße und Hausnummer": "Übungsring 11",
+    "Lage": "Verkehrsunfall mit zwei Fahrzeugen",
+    "Anzahl betroffener Personen": "3",
+    "Besonderheit": "Zufahrt von Norden"
+  },
+  {
+    "Funkrufname": "Florian Übung 26/1",
+    "Straße und Hausnummer": "Musterplatz 6",
+    "Lage": "Ausgelöste Brandmeldeanlage",
+    "Anzahl betroffener Personen": "0",
+    "Besonderheit": "Schlüssel beim Hausmeister"
+  },
+  {
+    "Funkrufname": "Florian Übung 27/1",
+    "Straße und Hausnummer": "Trainingsweg 42",
+    "Lage": "Brennender Papiercontainer",
+    "Anzahl betroffener Personen": "0",
+    "Besonderheit": "Abstand zum Gebäude fünf Meter"
+  },
+  {
+    "Funkrufname": "Florian Übung 28/1",
+    "Straße und Hausnummer": "Beispielweg 9",
+    "Lage": "Person in Aufzug eingeschlossen",
+    "Anzahl betroffener Personen": "1",
+    "Besonderheit": "Aufzug im zweiten Obergeschoss"
+  },
+  {
+    "Funkrufname": "Florian Übung 29/1",
+    "Straße und Hausnummer": "Teststraße 16",
+    "Lage": "Ölspur auf Fahrbahn",
+    "Anzahl betroffener Personen": "0",
+    "Besonderheit": "Länge etwa fünfzig Meter"
+  },
+  {
+    "Funkrufname": "Florian Übung 30/1",
+    "Straße und Hausnummer": "Übungsallee 21",
+    "Lage": "Dachstuhlbrand",
+    "Anzahl betroffener Personen": "2",
+    "Besonderheit": "Drehleiter auf der Südseite"
+  },
+  {
+    "Funkrufname": "Florian Übung 31/1",
+    "Straße und Hausnummer": "Musterhof 5",
+    "Lage": "Kleine Fläche in Brand",
+    "Anzahl betroffener Personen": "0",
+    "Besonderheit": "Wasserversorgung am Übungsteich"
+  },
+  {
+    "Funkrufname": "Florian Übung 32/1",
+    "Straße und Hausnummer": "Trainingsgasse 8",
+    "Lage": "Rauch im Treppenraum",
+    "Anzahl betroffener Personen": "4",
+    "Besonderheit": "Haupteingang frei halten"
+  },
+  {
+    "Funkrufname": "Florian Übung 33/1",
+    "Straße und Hausnummer": "Beispielring 31",
+    "Lage": "Brennender Schuppen",
+    "Anzahl betroffener Personen": "0",
+    "Besonderheit": "Keine Personen im Gebäude"
+  },
+  {
+    "Funkrufname": "Florian Übung 34/1",
+    "Straße und Hausnummer": "Testplatz 12",
+    "Lage": "Unfall mit Fahrrad",
+    "Anzahl betroffener Personen": "1",
+    "Besonderheit": "Rettungsdienst eingewiesen"
+  },
+  {
+    "Funkrufname": "Florian Übung 35/1",
+    "Straße und Hausnummer": "Übungshof 4",
+    "Lage": "Wasseraustritt im Technikraum",
+    "Anzahl betroffener Personen": "0",
+    "Besonderheit": "Absperrhahn links neben der Tür"
+  },
+  {
+    "Funkrufname": "Florian Übung 36/1",
+    "Straße und Hausnummer": "Musterallee 19",
+    "Lage": "Verrauchte Garage",
+    "Anzahl betroffener Personen": "1",
+    "Besonderheit": "Tor bereits geöffnet"
+  },
+  {
+    "Funkrufname": "Florian Übung 37/1",
+    "Straße und Hausnummer": "Trainingsring 27",
+    "Lage": "Lose Dachteile",
+    "Anzahl betroffener Personen": "0",
+    "Besonderheit": "Gehweg abgesperrt"
+  },
+  {
+    "Funkrufname": "Florian Übung 38/1",
+    "Straße und Hausnummer": "Beispielgasse 2",
+    "Lage": "Brandgeruch im Lager",
+    "Anzahl betroffener Personen": "0",
+    "Besonderheit": "Zugang über Seitentür"
+  },
+  {
+    "Funkrufname": "Florian Übung 39/1",
+    "Straße und Hausnummer": "Testweg 33",
+    "Lage": "Baum auf Gartenhaus",
+    "Anzahl betroffener Personen": "2",
+    "Besonderheit": "Zufahrt nur für kleine Fahrzeuge"
+  },
+  {
+    "Funkrufname": "Florian Übung 40/1",
+    "Straße und Hausnummer": "Übungsplatz 10",
+    "Lage": "Küchenbrand im Obergeschoss",
+    "Anzahl betroffener Personen": "3",
+    "Besonderheit": "Anleiterstelle im Innenhof"
+  }
+]

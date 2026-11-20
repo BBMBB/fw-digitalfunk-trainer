@@ -1,0 +1,17 @@
+name: digitalfunk-trainer
+services:
+  app:
+    build: .
+    init: true
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:?Bitte ADMIN_PASSWORD in .env setzen}
+      DATABASE_PATH: /data/trainer.db
+      PORT: 3000
+    volumes:
+      - data:/data
+    ports:
+      - "127.0.0.1:${APP_PORT:?Bitte APP_PORT in .env setzen}:3000"
+volumes:
+  data:
